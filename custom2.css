@@ -1,0 +1,23 @@
+.navbar {
+	background: white;
+	border: 0;
+}
+
+.jumbotron {
+	background: url("http://cdn.wallpapersafari.com/72/63/GZst2x.jpg");
+	color: white;
+	text-align: center;
+	height: 850px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 14px;
+}
+
+.jumbotron {
+	background: url("http://placehold.it/1000x850");
+	color: white;
+	text-align: center;
+
+
+}
